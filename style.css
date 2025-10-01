@@ -1,0 +1,42 @@
+
+.quicksand-<uniquifier> {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+body{
+    background-color: black;
+    color: white;
+    margin: 0;
+    font-family: "Quicksand", sans-serif;
+}
+
+header{
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(42, 122, 228);
+}
+
+section{
+    background-color: rgb(230, 86, 235);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.chamada-texto{
+    margin-right: 5%;
+}
+
+h1{
+    font-size: 40px;
+}
+
+p{
+    font-size: 30px;
+}
